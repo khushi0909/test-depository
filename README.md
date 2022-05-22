@@ -10,4 +10,4 @@ trying to add directly in website git
 
 
 
-i am not in love with thid 
+hope this programm helps me to understand everything very good base
